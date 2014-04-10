@@ -1,0 +1,287 @@
+IP Configuration: 
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : Ross-PC
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Network Bridge:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Network Adapter Multiplexor Driver
+   Physical Address. . . . . . . . . : FC-15-B4-01-B1-45
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   IPv6 Address. . . . . . . . . . . : 2606:a000:e240:7900:4176:f029:2b83:6da8(Preferred) 
+   IPv6 Address. . . . . . . . . . . : 2606:a000:e240:7900:5635:30ff:fe87:ba09(Preferred) 
+   Lease Obtained. . . . . . . . . . : Thursday, April 10, 2014 4:48:25 PM
+   Lease Expires . . . . . . . . . . : Thursday, April 10, 2014 6:52:00 PM
+   Temporary IPv6 Address. . . . . . : 2606:a000:e240:7900:d009:bc3d:f040:4b0a(Preferred) 
+   Link-local IPv6 Address . . . . . : fe80::4176:f029:2b83:6da8%13(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.0.5(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Thursday, April 10, 2014 6:48:34 PM
+   Lease Expires . . . . . . . . . . : Thursday, April 10, 2014 7:48:34 PM
+   Default Gateway . . . . . . . . . : fe80::fa2f:a8ff:fe97:822f%13
+                                       192.168.0.1
+   DHCP Server . . . . . . . . . . . : 192.168.0.1
+   DHCPv6 IAID . . . . . . . . . . . : 201070004
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-1A-D1-11-2E-FC-15-B4-01-B1-45
+   DNS Servers . . . . . . . . . . . : 209.18.47.61
+                                       209.18.47.62
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : 54-35-30-87-BA-09
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter VMware Network Adapter VMnet1:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : VMware Virtual Ethernet Adapter for VMnet1
+   Physical Address. . . . . . . . . : 00-50-56-C0-00-01
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::ac80:105c:fcc6:4263%9(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.79.1(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+   DHCPv6 IAID . . . . . . . . . . . : 385896534
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-1A-D1-11-2E-FC-15-B4-01-B1-45
+   DNS Servers . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter VMware Network Adapter VMnet8:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : VMware Virtual Ethernet Adapter for VMnet8
+   Physical Address. . . . . . . . . : 00-50-56-C0-00-08
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::ccd6:3b6e:167:ce82%10(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+   DHCPv6 IAID . . . . . . . . . . . : 402673750
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-1A-D1-11-2E-FC-15-B4-01-B1-45
+   DNS Servers . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Tunnel adapter isatap.{7312AA37-EEE2-4F21-A1FF-409C3A222167}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter isatap.{2D5D6170-94DD-448A-92EE-B3A855E88740}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter #2
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter isatap.{087C9009-117E-40E5-8129-72B3E79483CE}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter #3
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+Complete File Structure: 
+Folder PATH listing for volume USB FLASH
+Volume serial number is 000000B2 BA92:B6BC
+F:.
+³   AV_REM.exe
+³   options.bat
+³   System_Info.txt
+³   
+ÃÄÄÄCommandLine
+³       Process.exe
+³       
+ÃÄÄÄNir
+³       NirCmd.chm
+³       nircmd.exe
+³       nircmdc.exe
+³       
+ÃÄÄÄWebPass
+³       WebBrowserPassView.cfg
+³       WebBrowserPassView.chm
+³       WebBrowserPassView.exe
+³       readme.txt
+³       
+ÃÄÄÄmylastsearch
+³       MyLastSearch.cfg
+³       MyLastSearch.chm
+³       MyLastSearch.exe
+³       readme.txt
+³       
+ÃÄÄÄhistory
+³       BrowsingHistoryView.chm
+³       BHV.exe
+³       
+ÃÄÄÄwireless_key
+³       WirelessKeyView.chm
+³       WKV.exe
+³       
+ÃÄÄÄwPasswd
+³       PwDump7.exe
+³       libeay32.dll
+³       
+ÀÄÄÄpranks_scripts
+        cdrom_prank.vbs
+        
+All Users on computer: 
+
+User accounts for \\ROSS-PC
+
+-------------------------------------------------------------------------------
+Administrator            Guest                    Ross                     
+The command completed successfully.
+
+Computers connected to network: 
+Hardware and other system info: 
+
+Host Name:                 ROSS-PC
+OS Name:                   Microsoft Windows 8.1
+OS Version:                6.3.9600 N/A Build 9600
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          Ross
+Registered Organization:   Hewlett-Packard
+Product ID:                00258-61276-24563-AAOEM
+Original Install Date:     4/4/2014, 8:34:34 PM
+System Boot Time:          4/10/2014, 4:42:28 PM
+System Manufacturer:       Hewlett-Packard
+System Model:              HP 15 Notebook PC
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: AMD64 Family 22 Model 0 Stepping 1 AuthenticAMD ~2000 Mhz
+BIOS Version:              Insyde F.0B, 2/12/2014
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume2
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC-05:00) Eastern Time (US & Canada)
+Total Physical Memory:     3,542 MB
+Available Physical Memory: 1,346 MB
+Virtual Memory: Max Size:  4,886 MB
+Virtual Memory: Available: 2,167 MB
+Virtual Memory: In Use:    2,719 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\ROSS-PC
+Hotfix(s):                 59 Hotfix(s) Installed.
+                           [01]: KB2899189_Microsoft-Windows-CameraCodec-Package
+                           [02]: KB2843630
+                           [03]: KB2862152
+                           [04]: KB2868626
+                           [05]: KB2876331
+                           [06]: KB2883200
+                           [07]: KB2883295
+                           [08]: KB2884778
+                           [09]: KB2884846
+                           [10]: KB2885706
+                           [11]: KB2887595
+                           [12]: KB2888028
+                           [13]: KB2892074
+                           [14]: KB2893294
+                           [15]: KB2894029
+                           [16]: KB2894179
+                           [17]: KB2894853
+                           [18]: KB2895219
+                           [19]: KB2896459
+                           [20]: KB2897983
+                           [21]: KB2898514
+                           [22]: KB2898742
+                           [23]: KB2898868
+                           [24]: KB2898871
+                           [25]: KB2900986
+                           [26]: KB2901101
+                           [27]: KB2901125
+                           [28]: KB2901128
+                           [29]: KB2902892
+                           [30]: KB2903939
+                           [31]: KB2904266
+                           [32]: KB2906956
+                           [33]: KB2908174
+                           [34]: KB2909210
+                           [35]: KB2909569
+                           [36]: KB2911106
+                           [37]: KB2911134
+                           [38]: KB2912390
+                           [39]: KB2913152
+                           [40]: KB2913270
+                           [41]: KB2913760
+                           [42]: KB2914218
+                           [43]: KB2916036
+                           [44]: KB2917929
+                           [45]: KB2917993
+                           [46]: KB2919394
+                           [47]: KB2919442
+                           [48]: KB2919907
+                           [49]: KB2922229
+                           [50]: KB2923300
+                           [51]: KB2923528
+                           [52]: KB2923768
+                           [53]: KB2925418
+                           [54]: KB2928680
+                           [55]: KB2929961
+                           [56]: KB2930275
+                           [57]: KB2936068
+                           [58]: KB2939087
+                           [59]: KB2942844
+Network Card(s):           5 NIC(s) Installed.
+                           [01]: Realtek PCIe FE Family Controller
+                                 Connection Name: Ethernet
+                                 Status:          Media disconnected
+                           [02]: Realtek RTL8188EE 802.11b/g/n Wi-Fi Adapter
+                                 Connection Name: Wi-Fi
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     N/A
+                                 IP address(es)
+                           [03]: VMware Virtual Ethernet Adapter for VMnet1
+                                 Connection Name: VMware Network Adapter VMnet1
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 192.168.79.1
+                                 [02]: fe80::ac80:105c:fcc6:4263
+                           [04]: VMware Virtual Ethernet Adapter for VMnet8
+                                 Connection Name: VMware Network Adapter VMnet8
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 192.168.56.1
+                                 [02]: fe80::ccd6:3b6e:167:ce82
+                           [05]: Microsoft Network Adapter Multiplexor Driver
+                                 Connection Name: Network Bridge
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.0.1
+                                 IP address(es)
+                                 [01]: 192.168.0.5
+                                 [02]: fe80::4176:f029:2b83:6da8
+                                 [03]: 2606:a000:e240:7900:d009:bc3d:f040:4b0a
+                                 [04]: 2606:a000:e240:7900:5635:30ff:fe87:ba09
+                                 [05]: 2606:a000:e240:7900:4176:f029:2b83:6da8
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: No
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes
