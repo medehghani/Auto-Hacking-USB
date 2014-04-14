@@ -7,7 +7,7 @@ echo 2) Turn on telnet (GREAT for lan connection from another computer)
 echo 3) Shutdown computer with message
 echo 4) Disconnect from internet and make it hard to turn back on
 echo 5) Reconnect to internet after hard disconnect
-echo x) More stuff is coming soon! Look for the next update at https://github.com/rossepsteini/Auto-Hacking-USB
+echo U) Check for updates
 set /p choice=
 if %choice% == 0 goto :cp
 if %choice% == 1 goto :gi
@@ -15,6 +15,8 @@ if %choice% == 2 goto :et
 if %choice% == 3 goto :swm
 if %choice% == 4 goto :dci
 if %choice% == 5 goto :rci
+if %choice% == U goto :upd
+if %choice% == u goto :upd
 cls
 :cp
 echo ....
@@ -98,5 +100,13 @@ if %errorLevel% == 0 (
 	pause
 	goto eos
 	)
+:upd
+echo You are currently running version 1.0. 
+echo Were going to launch the repository where new versions are stored
+echo If any of the commits are higher then 1.0 you need to update!
+start https://github.com/rossepsteini/Auto-Hacking-USB
+echo Download the zip and replace the new files with the old.
+pause
+goto :starthere
 	
 

@@ -1,0 +1,10 @@
+
+Pinging Ross-PC [::1] with 32 bytes of data:
+Reply from ::1: time<1ms 
+Reply from ::1: time=1ms 
+Reply from ::1: time<1ms 
+
+Ping statistics for ::1:
+    Packets: Sent = 3, Received = 3, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 1ms, Average = 0ms
